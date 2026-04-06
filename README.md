@@ -35,7 +35,7 @@ _Note: A large condition number was observed in the initial OLS results due to t
 * `seaborn`, `matplotlib`: Statistical visualization
 * `tqdm`: Progress tracking for iterative loops
 
-## Dataset
+## [Dataset](https://drive.google.com/drive/folders/1_rgDrjVmhOWj80xoOn9uOuBnc0_W4k7F?usp=sharing)
 The analysis is conducted on a cleaned version of the **IPUMS CPS dataset** (approx. 1.9 million observations), covering annual surveys from 1990 to 2022.
 
 ---
