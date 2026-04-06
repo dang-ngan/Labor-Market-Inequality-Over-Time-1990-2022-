@@ -63,3 +63,5 @@ The analysis confirms the classic Mincerian "concave" earnings profile.
 By tracking the education coefficient annually, the project documents the **Evolution of the Skill Premium**:
 * **The 1990s-2000s:** A period of significant growth in the value of a degree, likely driven by Skill-Biased Technological Change (SBTC).
 * **Recent Stability:** The "10% Benchmark" remains a resilient feature of the U.S. economy, though shifts in the most recent years (2020–2022) suggest potential volatility in the post-pandemic labor market.
+
+![Alternative Text](education_premium.png)
