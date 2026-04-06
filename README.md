@@ -16,6 +16,8 @@ Where:
 * $S$ = Years of schooling
 * $E$ = Potential experience
 
+_Note: A large condition number was observed in the initial OLS results due to the high correlation between Experience and Experience Squared. To address this, experience variables were centered around the mean to improve numerical stability._
+
 ### Advanced Features:
 * **Interaction Terms:** Testing for heterogeneity by interacting `educ_yrs` with `sex` to measure differences in slopes.
 * **Experience Centering:** Centering the experience variable to reduce multicollinearity and improve model stability.
